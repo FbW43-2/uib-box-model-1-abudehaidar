@@ -1,0 +1,25 @@
+.box {
+  margin: 20px;
+  border: solid 1px;
+  text-align: center;
+  font-weight: bold;
+  padding: 30px;
+  line-height: 0;
+}
+
+.margin {
+  border: dashed grey;
+  background-color: white;
+}
+
+.border {
+  background-color: green;
+}
+.padding {
+  background-color: lightblue;
+}
+
+.content {
+  border: dashed grey;
+  background-color: white;
+}
